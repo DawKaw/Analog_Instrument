@@ -1,0 +1,14 @@
+body {
+ color:#777777;
+ font-family:arial;
+ text-align:center;
+ margin: 0;
+}
+
+.meter{
+  width:  300px;
+  height: 300px;
+}
+
+
+
