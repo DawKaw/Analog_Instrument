@@ -1,4 +1,4 @@
-# Anlog Instrument
+# Analog Instrument
 Analog instrument created using html, js, css.
 
 This component allows you to show values on an analog scale, just like traditional panel gauges.
